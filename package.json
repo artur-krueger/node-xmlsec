@@ -1,0 +1,33 @@
+{
+  "name": "node-xmlsec",
+  "description": "Wrapper for xmlsec1 command line tool",
+  "version": "0.0.1",
+  "author": {
+    "name": "Artur Krüger",
+    "email": "krueger@it-ing.de"
+  },
+  "keywords": [
+    "xmlsec",
+    "xmlsec1"
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "bugs": {
+    "url": "http://github.com/artur-krueger/node-xmlsec/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "main": "./index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artur-krueger/node-xmlsec.git"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/artur-krueger/node-xmlsec"
+}
